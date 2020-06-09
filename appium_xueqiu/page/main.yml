@@ -1,0 +1,9 @@
+goto_market:
+  - by: xpath
+    locator: '//*[@text="行情"]'
+    action: click
+
+
+
+
+
